@@ -1,6 +1,6 @@
 ### Greetings, folks
 
-I'm Cláudio Vinícius (cloud-ee-oh)
+I'm Cláudio Vinícius
 
 :earth_americas: Based at Lavras, MG - Brasil
 
