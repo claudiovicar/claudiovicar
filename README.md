@@ -4,7 +4,7 @@ I'm Cláudio Vinícius
 
 :earth_americas: Based at Lavras, MG - Brasil
 
-Currently leading the development of an spatial data API for agtechs and always interested in better ways for processing large spatial datasets.
+<!-- Currently leading the development of an spatial data API for agtechs and always interested in better ways for processing large spatial datasets. -->
 
 Working with
  - Databases (both relational and nosql)
